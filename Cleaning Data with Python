@@ -28,6 +28,7 @@
 
 price_data.csv
 
+
 ●	id = client company identifier
 ●	price_date = reference date
 ●	price_off_peak_var = price of energy for the 1st period (off peak)
